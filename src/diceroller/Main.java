@@ -1,4 +1,4 @@
-package com.company;
+package diceroller;
 
 import javafx.util.Pair;
 

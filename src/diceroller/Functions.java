@@ -1,4 +1,4 @@
-package com.company;
+package diceroller;
 
 public class Functions {
     public static int sum(int[] results) {

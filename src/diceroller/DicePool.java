@@ -1,4 +1,4 @@
-package com.company;
+package diceroller;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.company;
+package diceroller;
 
 public class Reroller implements ResultSource {
     private ResultSource src;

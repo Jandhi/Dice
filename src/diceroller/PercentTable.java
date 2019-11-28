@@ -1,8 +1,7 @@
-package com.company;
+package diceroller;
 
 import javafx.util.Pair;
 
-import java.util.HashMap;
 import java.util.Map;
 
 public class PercentTable {
