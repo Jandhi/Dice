@@ -1,0 +1,7 @@
+
+bsquid:HiddenFieldCheck*":Rename "results" which hides the field declared at line 6.(Ïù"8·«ğòê-
+?squid:S1643"Use a StringBuilder instead.(ÉîèÂşÿÿÿÿ8½„Ôòê-
+:squid:S1643"Use a StringBuilder instead.(è¾µõ8½„Ôòê-
+|squid:S3012,"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(””§ùÿÿÿÿ8·«ğòê-
+Vsquid:S1197"8Move the array designator from the variable to the type.(áÑ•Ò8½„Ôòê-
+bsquid:HiddenFieldCheck6":Rename "results" which hides the field declared at line 6.(Ïù"8áüğòê-
